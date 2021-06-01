@@ -1,4 +1,5 @@
 - make a python backend for the search box, add it as method and action in the
+- https://stackoverflow.com/questions/29734208/how-can-i-connect-my-python-script-with-my-html-file
 <form> in index.html and paste it into any other pages. - no need
 #dfb162-#00ccff
 #e9c37a,#d2ba70-#00f7ff
@@ -6,6 +7,7 @@
 fix social links
 fix footer columns - done
 fix all titles - done
+part ner with CODE initiative
 contact stemchat for partnership - outreach@stemchats.org
 - aesthetics 
   - index default
@@ -14,7 +16,7 @@ contact stemchat for partnership - outreach@stemchats.org
     6 block is also nice, but perhaps useless
         maybe blogs
     image library, not yet useful, nice, but for publishing might be nice.
-    homde design made easy page is nice, for call for action
+    home design made easy page is nice, for call for action
     what our customer say is pointless. 
     our work process is good, use that
     need a design fix, not that good, for blog, perhaps. 
@@ -32,4 +34,4 @@ contact stemchat for partnership - outreach@stemchats.org
 
 Questions: 
 - where to get all the photos for everything
-- maybe we shoudl merge the first two tasks.
+- maybe we should merge the first two tasks, switch the orders of them around. 
