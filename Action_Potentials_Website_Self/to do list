@@ -1,5 +1,7 @@
 - make a python backend for the search box, add it as method and action in the
 - https://stackoverflow.com/questions/29734208/how-can-i-connect-my-python-script-with-my-html-file
+  - https://pypi.org/project/Flask/ (flask)
+  - https://stackoverflow.com/questions/17917254/how-to-install-flask-on-windows
 <form> in index.html and paste it into any other pages. - no need
 #dfb162-#00ccff
 #e9c37a,#d2ba70-#00f7ff
