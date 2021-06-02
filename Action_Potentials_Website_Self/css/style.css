@@ -8570,3 +8570,7 @@ img {
 .form-submission-button {
     padding-top: 12px;
 }
+
+.calendar-form {
+    text-align: center;
+}
