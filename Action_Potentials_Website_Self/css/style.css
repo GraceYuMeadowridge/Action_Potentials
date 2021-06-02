@@ -8574,3 +8574,39 @@ img {
 .calendar-form {
     text-align: center;
 }
+
+.calendar-placeholder {
+    padding: 40px;
+    background-color: rgb(65, 65, 65);
+    width: 100%;
+}
+
+.calendar-form-input {
+    width: 100%;
+    padding: 8px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-color: #ffffff;
+    border-width: 2px;
+    background-color: rgb(65, 65, 65);
+    text-align: center;
+    color: white;
+}
+
+.calendar-placeholder-p {
+    text-align: center;
+    color: white;
+    padding: 8px;
+    width: 100%;
+    margin-bottom: 200px;
+}
+
+.coda-kid-image .lifewire-image {
+    margin-top: 20px;
+    margin-bottom: 0px;
+    padding: 0px;
+}
+
+.coda-kid .lifewire {
+    font-size: 0.2px;
+}
