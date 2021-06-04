@@ -3578,7 +3578,7 @@ img {
     top: 0px;
     right: 0px;
     bottom: 0px;
-    background-color: rgba(31, 34, 37, 0.90);
+    background-color: rgba(31, 34, 37, 0.70);
 }
 
 .featured-section .title-box {
@@ -8615,4 +8615,8 @@ img {
     text-align: center;
     margin-top: 0px;
     padding-top: 0px;
+}
+
+.background-1-cite {
+    text-align: center;
 }
