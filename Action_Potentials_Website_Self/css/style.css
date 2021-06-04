@@ -8571,7 +8571,7 @@ img {
     padding-top: 12px;
 }
 
-.calendar-form {
+.calendar-form .placeholderline {
     text-align: center;
 }
 
@@ -8601,12 +8601,18 @@ img {
     margin-bottom: 200px;
 }
 
-.coda-kid-image .lifewire-image .student-led{
+.coda-kid-image .lifewire-image .student-led {
     margin-top: 20px;
     margin-bottom: 0px;
     padding: 0px;
 }
 
-.coda-kid .lifewire .student-led-{
+.coda-kid .lifewire .student-led- {
     font-size: 0.2px;
+}
+
+.placeholderline {
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 0px;
 }
