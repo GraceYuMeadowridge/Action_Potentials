@@ -8630,3 +8630,7 @@ img {
     text-align: center;
     color: white;
 }
+
+.text-time {
+    font-size: 11px;
+}
