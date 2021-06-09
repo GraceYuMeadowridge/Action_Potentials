@@ -8638,3 +8638,12 @@ img {
 .calendar-form-submit {
     text-align: center;
 }
+
+.contact-text {
+    color:white;
+}
+
+.contact-button {
+    text-align: center;
+    color: white;
+}
