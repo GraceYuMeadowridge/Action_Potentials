@@ -52,19 +52,32 @@ contact stemchat for partnership - outreach@stemchats.org
   - make functional comment sections in blogs
 
 
-  Webpage to do list:
+
+Webpage to do list:
   - index
-    - finish editing the texts in the 6 tile section and the news Section
     - finish editing the about us section
-- 1-on-1-tutorials
 
 - about
+  - paste the about us section on the index on to it.
+  - paste the testimonial section into it.
+  - paste some of the original code in and edit the words.
+
 - calendar
+
 - contact
+  - paste the form from the original code into there. 
+
 - feedback
+  - paste the form from contact into there and put a different link down there.
+
 - join-us
+  - same with feedback
+
 - summer-program
+  - finish editing the contents
+
 - testimonials
+  - paste the testimonial section from about into there. 
 
 - blogs
   - use blog_how_to_make_anything and make it a template before editing into it.
@@ -76,7 +89,9 @@ contact stemchat for partnership - outreach@stemchats.org
   
   - blog categories
     - create a template with the template, the page title ,and the gallery section.
+    - change profile image to me and rename it as template-blog.html
 
+- create a gallery like section for it. 
     - blog-CAD
     - blog-coding
     - blog-ideas
@@ -85,7 +100,10 @@ contact stemchat for partnership - outreach@stemchats.org
     - blog-stories
 
 - projects
-  -projects
+  - projects
+    - create an introduction and write some more details about it. 
+    
+    - crearte a gallery like section for it
   - projects-creative
   - projects-other
   - projects-research
@@ -93,10 +111,20 @@ contact stemchat for partnership - outreach@stemchats.org
 
 - services
   - sessions
+    - make an introduction, and paste the forms from contact and calendar into it. 
   - service
+    - write an introduction with something from the original code. 
+    - use the block sections from index
   - services-publishing
+    - create an introduction.
+    - show some gallery.
+    - put in a requirment list
+    - create a form for submissions. 
   - services-resources
+    - create a gallery of learning resources.
+    - use some of the existing ones ie. khan academy and later add in our own. 
   - services-tutorials1
+    - use the section from summer program and edit the words
 
 - forms
   - create the forms

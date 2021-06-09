@@ -8634,3 +8634,7 @@ img {
 .text-time {
     font-size: 11px;
 }
+
+.calendar-form-submit {
+    text-align: center;
+}
