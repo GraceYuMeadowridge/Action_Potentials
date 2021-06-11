@@ -75,7 +75,7 @@ Webpage to do list:
   - information on joining us.
 
 - summer-program
-  - finish editing the contents
+  - replace the video link
 
 - testimonials
   - paste the testimonial section from about into there. 
@@ -87,11 +87,13 @@ Webpage to do list:
   - blog_how_to_manage_your_time
   - blog_prion_disease
   
+  -blog
+    - done
+
   - blog categories
     - create a template with the template, the page title ,and the gallery section.
     - change profile image to me and rename it as template-blog.html
 
-- create a gallery like section for it. 
     - blog-CAD
     - blog-coding
     - blog-ideas
@@ -100,10 +102,9 @@ Webpage to do list:
     - blog-stories
 
 - projects
-  - projects
     - create an introduction and write some more details about it. 
     
-    - create a gallery like section for it
+    - create a gallery like section for it (copy from blog)
   - projects-creative
   - projects-other
   - projects-research

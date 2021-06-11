@@ -8640,10 +8640,14 @@ img {
 }
 
 .contact-text {
-    color:white;
+    color: white;
 }
 
 .contact-button {
     text-align: center;
     color: white;
+}
+
+.text-portfolio {
+    text-align: center;
 }
