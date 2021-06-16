@@ -10,7 +10,7 @@ fix social links
 fix footer columns - done
 fix all titles - done
 part ner with CODE initiative
-contact stemchat for partnership - outreach@stemchats.org
+contact stemchat for partnership - outreach@stemchats.org, and student seas
 - aesthetics 
   - index default
     banner should stay
