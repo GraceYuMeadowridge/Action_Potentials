@@ -3,7 +3,8 @@ Offer another 2 week extension.
 Program start and end date: July 19th - August 13, and August 27 for the extension.
 Tuition: N/A
 
-Opening "convocation": July 12th
+Send out a tech instruction email by July 12
+Opening "convocation": July 18th
 Tech troubleshoot: July 14, 16
 Each week schedule: Monday, Wednesday, Friday. 
 Monday: Rayan - Html and CSS
@@ -21,3 +22,12 @@ Target Outcome:
 - To be able to design and render components. 
 
 Syllabus: Done
+
+Advertising: Rayan's sister and old network
+Other student's siblings
+Post it on Robotics Teams Page (Ask Ms. Mohoruk)
+
+Finish everything by 24th
+Rayan edit by 26th
+Function trial from someone by 28th
+Publish by 29th

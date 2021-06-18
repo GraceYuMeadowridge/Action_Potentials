@@ -102,8 +102,11 @@ Webpage to do list:
 - projects
     - create an introduction and write some more details about it. 
     - create a gallery like section for it (copy from blog) and edit the contents
+      - write some placeholder projects
 
-- create a gallery section (copied from blog subsections)  
+
+- create a gallery section (copied from blog subsections)
+- write an introduction for each of themg 
   - projects-creative
   - projects-other
   - projects-research
