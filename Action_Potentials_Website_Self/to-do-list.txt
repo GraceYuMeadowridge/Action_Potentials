@@ -55,7 +55,7 @@ contact stemchat for partnership - outreach@stemchats.org, and student seas
 
 Webpage to do list:
   - index
-    - finish editing the about us section
+    - done
 
 - about
   - finish editing the contents
@@ -70,17 +70,15 @@ Webpage to do list:
   - done
 
 - join-us
-  - information on joining us.
+  - add information on joining us.
 
 - summer-program
   - replace the video link
 
 - testimonials
-  - paste the testimonial section from about into there. 
+  - done 
 
-- blogs
-  - use blog_how_to_make_anything and make it a template before editing into it.
-
+- blogs - edit the contents
   - blog_how_to_make_anything
   - blog_how_to_manage_your_time
   - blog_prion_disease
@@ -88,10 +86,7 @@ Webpage to do list:
   -blog
     - done
 
-  - blog categories
-    - create a template with the template, the page title ,and the gallery section.
-    - change profile image to me and rename it as template-blog.html
-
+  - write an introduction about it. 
     - blog-CAD
     - blog-coding
     - blog-ideas
@@ -101,12 +96,9 @@ Webpage to do list:
 
 - projects
     - create an introduction and write some more details about it. 
-    - create a gallery like section for it (copy from blog) and edit the contents
       - write some placeholder projects
 
-
-- create a gallery section (copied from blog subsections)
-- write an introduction for each of themg 
+- write an introduction for each of theme 
   - projects-creative
   - projects-other
   - projects-research
