@@ -58,7 +58,7 @@ Webpage to do list:
     - done
 
 - about
-  - finish editing the contents
+  - done
 
 - calendar
   - done
@@ -108,7 +108,7 @@ Webpage to do list:
   - sessions
     - make an introduction, and paste the forms from contact and calendar into it. 
   - service
-    - finish editing the contents
+    - done
   - services-publishing
     - create an introduction.
     - put in a requirement list
