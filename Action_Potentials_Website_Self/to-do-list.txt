@@ -116,10 +116,9 @@ Webpage to do list:
     - create a form for submissions. 
     - paste the gallery projects page into it
   - services-resources
-    - create a gallery of learning resources.
-    - use some of the existing ones ie. khan academy and later add in our own. 
+    - done
   - services-tutorials1
-    - use the section from summer program and edit the words
+    - done
 
 - forms
   - create the forms
