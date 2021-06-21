@@ -82,7 +82,8 @@ Webpage to do list:
   - blog_how_to_make_anything
   - blog_how_to_manage_your_time
   - blog_prion_disease
-  - blog_where_to find_learning _resources
+  - blog_where_to_find_learning _resources
+  - blog_poseidon
   
   -blog
     - done
@@ -98,7 +99,10 @@ Webpage to do list:
 - projects
     - create an introduction and write some more details about it. 
       - write some placeholder projects
-
+        - Posidon
+        - SSI research project
+        - prion disease blog
+        
 - write an introduction for each of theme 
   - projects-creative
   - projects-other
