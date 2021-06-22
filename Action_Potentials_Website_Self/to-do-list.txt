@@ -70,7 +70,7 @@ Webpage to do list:
   - done
 
 - join-us
-  - add information on joining us.
+  - done
 
 - summer-program
   - replace the video link
