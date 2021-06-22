@@ -93,7 +93,7 @@ Webpage to do list:
     - blog-coding
     - blog-ideas
     - blog-projects
-    - blog robotics
+    - blog-robotics
     - blog-stories
 
 - projects
