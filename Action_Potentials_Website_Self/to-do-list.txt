@@ -99,7 +99,7 @@ Webpage to do list:
 - projects
     - create an introduction and write some more details about it. 
       - write some placeholder projects
-        - Posidon
+        - Poseidon
         - SSI research project
         - prion disease blog
         
