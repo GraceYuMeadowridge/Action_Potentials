@@ -117,7 +117,6 @@ Webpage to do list:
   - services-publishing
     - create an introduction.
     - put in a requirement list
-    - create a form for submissions. 
   - services-resources
     - done
   - services-tutorials1
@@ -125,3 +124,6 @@ Webpage to do list:
 
 - forms
   - create the forms
+
+checkout this place - https://www.vistaprint.ca/digital-marketing/domains?rd=1
+- investigate the domain size (how much webspace will we have)
