@@ -87,14 +87,14 @@ Webpage to do list:
   
   -blog
     - done
-
-  - write an introduction about it. 
+    
     - blog-CAD
     - blog-coding
     - blog-ideas
     - blog-projects
     - blog-robotics
     - blog-stories
+      - all done
 
 - projects
     - create an introduction and write some more details about it. 
@@ -108,6 +108,7 @@ Webpage to do list:
   - projects-other
   - projects-research
   - projects-studies
+    - all done
 
 - services
   - sessions
@@ -115,8 +116,7 @@ Webpage to do list:
   - service
     - done
   - services-publishing
-    - create an introduction.
-    - put in a requirement list
+    - done
   - services-resources
     - done
   - services-tutorials1
