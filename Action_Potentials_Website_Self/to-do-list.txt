@@ -82,6 +82,7 @@ Webpage to do list:
   - blog_how_to_make_anything 
     - done 
   - blog_how_to_manage_your_time
+    - done
   - blog_prion_disease
   - blog_where_to_find_learning _resources
   - blog_poseidon
