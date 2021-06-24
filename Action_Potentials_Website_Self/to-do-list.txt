@@ -79,16 +79,18 @@ Webpage to do list:
   - done 
 
 - blogs - edit the contents
-  - blog_how_to_make_anything
+  - blog_how_to_make_anything 
+    - done 
   - blog_how_to_manage_your_time
   - blog_prion_disease
   - blog_where_to_find_learning _resources
   - blog_poseidon
+  - blog_foil_data_augmentation
   
   -blog
     - done
     
-    - blog-CAD
+    - blog-CAD 
     - blog-coding
     - blog-ideas
     - blog-projects
