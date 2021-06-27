@@ -39,13 +39,6 @@ contact stemchat for partnership - outreach@stemchats.org, and student seas
 - flask support links
   https://kb.amijani.net/general-article/how-to-install-flask-in-windows-10/
 
-
-  - make a summer program preview video.
-
-  write blogs
-  - how to manage your time
-  - how to make anything
-
   Learn php for backend
   - create functional search bar
   - make functional forms
@@ -78,15 +71,19 @@ Webpage to do list:
 - testimonials
   - done 
 
-- blogs - edit the contents
+- blogs
   - blog_how_to_make_anything 
     - done 
   - blog_how_to_manage_your_time
     - done
   - blog_prion_disease
+    - wait for content
   - blog_where_to_find_learning _resources
+    - done
   - blog_poseidon
+    - check title and formatting
   - blog_foil_data_augmentation
+    - done
   
   -blog
     - done
@@ -105,6 +102,7 @@ Webpage to do list:
         - Poseidon
         - SSI research project
         - prion disease blog
+          - all done
         
 - write an introduction for each of theme 
   - projects-creative
@@ -127,6 +125,8 @@ Webpage to do list:
 
 - forms
   - create the forms
+    - add exception for 14- volunteers
 
 checkout this place - https://www.vistaprint.ca/digital-marketing/domains?rd=1
 - investigate the domain size (how much webspace will we have)
+
