@@ -44,6 +44,7 @@ contact stemchat for partnership - outreach@stemchats.org, and student seas
   - make functional forms
   - make functional comment sections in blogs
 
+- transfer everything to the new repo
 
 
 Webpage to do list:
