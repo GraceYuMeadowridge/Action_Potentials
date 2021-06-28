@@ -82,13 +82,13 @@ Webpage to do list:
   - blog_where_to_find_learning _resources
     - done
   - blog_poseidon
-    - check title and formatting
+    - done
   - blog_foil_data_augmentation
     - done
   
   -blog
     - done
-    
+  
     - blog-CAD 
     - blog-coding
     - blog-ideas
